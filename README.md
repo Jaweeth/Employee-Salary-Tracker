@@ -1,2 +1,2 @@
 # Employee-Salary-Tracker
-A Dashboard that made with Excel-based Employee Salary Dashboard with Pivot Tables and Charts
+A Dashboard that i made with Excel a Data Which is based Employee Salary 
